@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RikiHoang
 - 👀 I’m interested in ... IT
 - 🌱 I’m currently learning ... SRE/Devops
-- 💞️ I’m looking to collaborate on ... SRE/Devops
+- 💞️ I’m looking to collaborate on ... Anything
 - 📫 How to reach me ... rickkihoang@gmail.com
 
 <!---
